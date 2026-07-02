@@ -71,7 +71,7 @@ More projects coming soon...
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lemb321&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemb321&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemb321&layout=compact&theme=tokyonight"/>
 </p>
  
 ## 🔥 GitHub Streak
